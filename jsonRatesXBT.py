@@ -38,3 +38,4 @@ if __name__ == '__main__':
   main()
 
 # TODO: fix KeyError: 'rate' issue if from_currency or rates_in is malformed
+# TODO: review error handling and refactor to detach API call and processing the results
